@@ -1,5 +1,3 @@
-// complete the given function
-
 function palindrome(str){
  var remove = /[\W_]/g;
   var lowRegStr = str.toLowerCase().replace(remove, '');
