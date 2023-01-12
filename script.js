@@ -19,4 +19,3 @@ function palindrome(string){
   return true;
 }
 module.exports = palindrome
-Footer
